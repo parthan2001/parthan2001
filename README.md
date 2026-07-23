@@ -7,7 +7,7 @@
 </a>
 
 ![Academic](https://img.shields.io/badge/M.Tech-Information%20Security-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Trivandrum%2C%20Kerala-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Kerala%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthan20012001)
