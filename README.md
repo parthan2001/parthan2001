@@ -15,7 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=parthan20012001&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/parthan20012001?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
+![Followers](https://img.shields.io/github/followers/parthan2001?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
 
 
 </div>
