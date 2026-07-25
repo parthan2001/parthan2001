@@ -251,7 +251,7 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parthan20012001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parthan2001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff)
 
 </div>
 
