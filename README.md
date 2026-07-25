@@ -25,7 +25,7 @@
 
 ## About Me
 
-I'm a Computer Science graduate pursuing an **M.Tech in Information Security** at the **College of Engineering Trivandrum (CET)**, with a strong foundation across **network security, vulnerability assessment, and cybersecurity**, paired with hands-on experience in **AI/ML and full stack development**.
+Computer Science graduate pursuing an M.Tech in Information Security with a strong interest in cybersecurity, network defense, vulnerability assessment, and threat detection. Passionate about applying AI/ML to solve real-world security challenges and building practical security solutions through hands-on projects.
 
 - 🔐 Focused on **cybersecurity engineering** — VAPT, network reconnaissance, SIEM, and threat monitoring
 - 🤖 Applied **AI/ML** to real security problems — biometric anti-spoofing, threat detection systems
