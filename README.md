@@ -241,7 +241,7 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=parthan20012001&theme=algolia&column=7&margin-w=8&margin-h=8&no-frame=true&title=Commits,Stars,Followers,PullRequest,Issues,Repositories,Experience)
+![Trophies](https://github-profile-trophy.vercel.app/?username=parthan2001&theme=algolia&column=7&margin-w=8&margin-h=8&no-frame=true&title=Commits,Stars,Followers,PullRequest,Issues,Repositories,Experience)
 
 </div>
 
@@ -251,7 +251,7 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parthan20012001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parthan2001&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff)
 
 </div>
 
@@ -261,7 +261,7 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/parthan20012001/parthan20012001/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/parthan2001/parthan20012001/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
