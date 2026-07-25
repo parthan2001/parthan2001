@@ -25,7 +25,7 @@
 
 ## About Me
 
-Computer Science graduate pursuing an M.Tech in Information Security with a strong interest in cybersecurity, network defense, vulnerability assessment, and threat detection. Passionate about applying AI/ML to solve real-world security challenges and building practical security solutions through hands-on projects.
+Computer Science graduate pursuing an **M.Tech in Information Security** with a strong interest in **cybersecurity, network defense, vulnerability assessment, and threat detection**. Passionate about applying **AI/ML** to solve real-world security challenges and building practical security solutions through hands-on projects. Dedicated to developing secure, scalable solutions while continuously exploring emerging technologies and security practices.
 
 - 🔐 Focused on **cybersecurity engineering** — VAPT, network reconnaissance, SIEM, and threat monitoring
 - 🤖 Applied **AI/ML** to real security problems — biometric anti-spoofing, threat detection systems
