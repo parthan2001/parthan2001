@@ -282,7 +282,7 @@ Exploring:
 Open To:
   - Cybersecurity Analyst / Engineer roles
   - AI/ML Engineering roles
-  - Full Stack Development roles
+  - Software Development roles
 ```
 
 ---
