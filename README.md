@@ -205,6 +205,22 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 ---
 
+
+## 🎓 Education
+
+### Master of Technology (M.Tech) – Information Security
+**College of Engineering Trivandrum (CET)**  
+📍 Kerala, India | **2025 – 2027**
+
+- Focus Areas: Cybersecurity, Digital Forensics, AI/ML, Network Security
+- Relevant Coursework: Cyber Forensics & Incident Response, Advanced Machine Learning, Research Methodology & IPR
+
+### Bachelor of Technology (B.Tech) – Computer Science & Engineering
+**APJ Abdul Kalam Technological University (KTU)**  
+📍 Kerala, India | **2019 – 2023**
+
+- Built projects in Java, Python, Machine Learning, and Web Technologies
+
 ## Certifications
 
 **AWS** — _Add certification badges here_
