@@ -241,15 +241,6 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=parthan2001&theme=algolia&column=7&margin-w=8&margin-h=8&no-frame=true&title=Commits,Stars,Followers,PullRequest,Issues,Repositories,Experience)
-
-</div>
-
----
 
 ## Contribution Activity
 
@@ -265,7 +256,7 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/parthan2001/parthan20012001/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/parthan2001/parthan2001/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
