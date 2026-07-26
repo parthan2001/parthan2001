@@ -211,7 +211,7 @@ Operational role focused on accuracy, quality, and client communication manageme
 | Degree | Institution | Duration | Status |
 |---------|-------------|----------|--------|
 | **M.Tech – Information Security** | College of Engineering Trivandrum | 2025 – 2027 | Pursuing |
-| **B.Tech – Computer Science & Engineering** | APJ Abdul Kalam Technological University | 2019 – 2023 | Completed |
+| **B.Tech – Computer Science & Engineering** | Heera College of Engineering & Technology | 2019 – 2023 | Completed |
 
 ## Certifications
 
