@@ -232,10 +232,10 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=parthan20012001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9c9c9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=parthan20012001&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=parthan2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9c9c9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=parthan2001&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthan20012001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9c9c9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthan2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9c9c9" />
 
 </div>
 
