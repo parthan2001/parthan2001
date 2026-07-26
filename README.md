@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.com/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Parthan%20VA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Parthan%20VA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=18)
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=M.Tech+Information+Security+Student;Cybersecurity+%7C+VAPT+%7C+SIEM;AI%2FML+for+Cybersecurity;SOC+Analyst+%7C+Python+%7C+Linux;Building+Secure%2C+Intelligent+Systems" alt="Typing SVG" />
