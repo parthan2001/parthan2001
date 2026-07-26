@@ -245,7 +245,7 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=parthan2001&theme=algolia&column=7&margin-w=8&margin-h=8&no-frame=true&title=Commits,Stars,Followers,PullRequest,Issues,Repositories,Experience)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=parthan2001&theme=algolia&column=7&margin-w=8&margin-h=8&no-frame=true&title=Commits,Stars,Followers,PullRequest,Issues,Repositories,Experience)
 
 </div>
 
