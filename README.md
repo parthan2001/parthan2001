@@ -215,10 +215,7 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 ## Certifications
 
-**AWS** — _Add certification badges here_
-**Oracle** — _Add certification badges here_
-**NPTEL** — _Add certification badges here_
-**Cisco** — _Add certification badges here_
+> *Certifications will be added soon.*
 
 ---
 
