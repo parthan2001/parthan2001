@@ -228,20 +228,16 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=parthan2001&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthan2001&theme=tokyonight" />
-</p>
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=parthan2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9c9c9" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=parthan2001&theme=tokyonight" />
 
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthan2001&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthan2001&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parthan2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9c9c9" />
+
+</div>
 
 ---
 
