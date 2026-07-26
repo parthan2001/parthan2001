@@ -252,15 +252,6 @@ Operational role focused on accuracy, quality, and client communication manageme
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/parthan2001/parthan2001/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## Current Focus
 
