@@ -300,6 +300,6 @@ Open To:
 
 _"Securing systems today, building intelligent ones for tomorrow."_
 
-![Footer](https://capsule-render.com/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 
 </div>
