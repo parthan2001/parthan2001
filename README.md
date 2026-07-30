@@ -106,18 +106,27 @@ Built to unify reconnaissance, monitoring, and threat detection into a single se
 <summary><b>🧬 D-SENSE: Anti-Spoofing Biometric Framework</b></summary>
 <br>
 
-AI-based biometric anti-spoofing system using frequency-domain liveness detection and Honey Encryption to protect biometric data.
+AI-powered biometric authentication framework combining **frequency-domain liveness detection**, **two-stage machine learning**, and **Honey Encryption** to defend against face presentation attacks and securely protect biometric templates.
 
 | Aspect | Detail |
 |---|---|
-| Stack | Python, TensorFlow, OpenCV, Machine Learning, Cryptography |
-| Scale | Prototype biometric authentication pipeline |
-| Performance | Frequency-domain liveness analysis for spoof detection |
-| Security | Honey Encryption for biometric data protection |
-| Impact | Strengthens biometric systems against presentation attacks |
-| Repository | — |
+| Stack | Python, OpenCV, PyTorch, Scikit-learn, FFT, LBP, Cryptography |
+| Scale | Modular biometric authentication and anti-spoofing pipeline |
+| Performance | Two-stage liveness verification with confidence-based decision pipeline |
+| Security | Honey Encryption, AES-256-GCM, PBKDF2 for secure biometric vaults |
+| Impact | Enhances biometric authentication by detecting spoof attacks while protecting biometric templates |
+| Repository | 🔗 [View on GitHub](https://github.com/parthan2001/d-sense-biometric-anti-spoofing) |
 
-Combines ML-based liveness detection with cryptographic data protection to harden biometric authentication against spoofing.
+### Key Highlights
+
+- Frequency-domain feature extraction using FFT and LBP
+- Two-stage spoof detection with SVM/Random Forest and Autoencoder
+- Confidence-based gray-zone verification for improved reliability
+- Honey Encryption for secure biometric template storage
+- Real-time webcam-based face authentication
+- Modular architecture supporting training, evaluation, and deployment
+
+Developed to strengthen biometric authentication systems by integrating computer vision, machine learning, and cryptographic protection into a unified anti-spoofing framework.
 
 </details>
 
