@@ -145,6 +145,25 @@ Machine learning model to classify SMS messages as spam or legitimate using the 
 </details>
 
 <details>
+<summary><b>👁️ Randomized Eye Blink Challenge–Response Based Liveness Verification System</b></summary>
+<br>
+
+Biometric liveness verification system that authenticates users through randomized eye blink challenge–response sequences to prevent spoofing attacks.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, OpenCV, MediaPipe, Computer Vision |
+| Scale | Prototype liveness verification system |
+| Performance | Real-time eye blink detection and challenge validation |
+| Security | Protects against photo and replay attacks using dynamic liveness verification |
+| Impact | Enhances biometric authentication by verifying genuine user presence |
+| Repository | — |
+
+Implements a challenge–response mechanism with randomized blink patterns to strengthen biometric authentication against presentation attacks.
+
+</details>
+
+<details>
 <summary><b>🏢 Employment Management System</b></summary>
 <br>
 
