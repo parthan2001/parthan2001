@@ -116,6 +116,7 @@ AI-powered biometric authentication framework combining **frequency-domain liven
 | Security | Honey Encryption, AES-256-GCM, PBKDF2 for secure biometric vaults |
 | Impact | Enhances biometric authentication by detecting spoof attacks while protecting biometric templates |
 | Repository | 🔗 [View on GitHub](https://github.com/parthan2001/d-sense-biometric-anti-spoofing) |
+| **Demo** | 🌐 Coming Soon |
 
 ### Key Highlights
 
