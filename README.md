@@ -180,6 +180,25 @@ Web-based employee management system for managing employee records and attendanc
 
 </details>
 
+<details>
+<summary><b>🔐 Password Strength Meter Using Entropy Calculation</b></summary>
+<br>
+
+Password security assessment tool that evaluates password strength using entropy calculation and security best practices.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, Tkinter |
+| Scale | Desktop-based password analysis tool |
+| Performance | Instant password strength evaluation |
+| Security | Entropy-based strength analysis with password improvement recommendations |
+| Impact | Promotes secure password creation and awareness of password security |
+| Repository | — |
+
+Calculates password entropy and evaluates complexity based on length, character diversity, and randomness to encourage stronger password practices.
+
+</details>
+
 ---
 
 ## Experience
