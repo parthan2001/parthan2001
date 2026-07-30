@@ -74,20 +74,31 @@ Computer Science graduate pursuing an **M.Tech in Information Security** with a 
 
 <details>
 <summary><b>🔒 Integrated Cybersecurity Monitoring and Threat Detection System</b></summary>
+
 <br>
 
-Python-based threat detection system integrating network scanning, traffic analysis, firewall monitoring, and SIEM dashboards.
+Python-based cybersecurity platform integrating **network scanning, traffic analysis, firewall log monitoring, phishing detection, and SIEM dashboards** into a unified security monitoring solution.
 
 | Aspect | Detail |
-|---|---|
-| Stack | Python, ELK Stack, Nmap, Wireshark, Docker, Ubuntu, Kali Linux |
-| Scale | Single-host network monitoring pipeline |
-| Performance | Real-time traffic analysis and alerting |
-| Security | Firewall monitoring, threat detection logic |
-| Impact | Centralized visibility into network security posture via SIEM dashboards |
-| Repository | — |
+|---------|--------|
+| **Stack** | Python, ELK Stack, Nmap, Wireshark, Docker, Ubuntu, Kali Linux |
+| **Scale** | Single-host network monitoring pipeline |
+| **Performance** | Real-time traffic analysis and alerting |
+| **Security** | Firewall monitoring, threat detection, log analysis |
+| **Impact** | Centralized visibility into network security posture through SIEM dashboards |
+| **Repository** | 🔗 [View on GitHub](https://github.com/parthan2001/integrated-cybersecurity-monitoring-system) |
+| **Demo** | 🌐 Coming Soon |
 
-Built to unify scanning, traffic analysis, and monitoring into a single actionable security workflow, reducing manual correlation across tools.
+### Key Highlights
+
+- Automated network discovery and asset mapping
+- Live packet capture and traffic analysis
+- Firewall log monitoring and event correlation
+- Phishing detection using heuristic analysis
+- ELK Stack integration for centralized logging
+- Docker-based deployment for easy setup
+
+Built to unify reconnaissance, monitoring, and threat detection into a single security workflow, reducing manual effort while improving visibility into network security events.
 
 </details>
 
