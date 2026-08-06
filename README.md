@@ -221,12 +221,22 @@ Password security assessment tool that evaluates password strength using entropy
 
 | Aspect | Detail |
 |---|---|
-| Stack | Python, Tkinter |
-| Scale | Desktop-based password analysis tool |
-| Performance | Instant password strength evaluation |
-| Security | Entropy-based strength analysis with password improvement recommendations |
-| Impact | Promotes secure password creation and awareness of password security |
-| Repository | — |
+| **Stack** | Python, Tkinter |
+| **Scale** | Desktop-based password analysis tool |
+| **Performance** | Instant password strength evaluation |
+| **Security** | Entropy-based strength analysis with password improvement recommendations |
+| **Impact** | Promotes secure password creation and awareness of password security |
+| **Repository** | 🔗 [View on GitHub](https://github.com/parthan2001/password-strength-meter) |
+| **Demo** | 🌐 Coming Soon |
+
+### Key Highlights
+
+- Password strength evaluation using entropy calculation
+- Character set analysis (uppercase, lowercase, digits, symbols)
+- Real-time password strength feedback
+- Security improvement recommendations
+- Random strong password generator
+- User-friendly Tkinter graphical interface
 
 Calculates password entropy and evaluates complexity based on length, character diversity, and randomness to encourage stronger password practices.
 
