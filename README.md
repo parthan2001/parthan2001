@@ -178,7 +178,19 @@ Biometric liveness verification system that authenticates users through randomiz
 | Performance | Real-time eye blink detection and challenge validation |
 | Security | Protects against photo and replay attacks using dynamic liveness verification |
 | Impact | Enhances biometric authentication by verifying genuine user presence |
-| Repository | — |
+| Repository | 🔗 [View on GitHub](https://github.com/parthan2001/eye-blink-liveness-verification) |
+| **Demo** | 🌐 Coming Soon |
+
+### Key Highlights
+
+- Randomized eye blink challenge–response authentication
+- CNN-based eye state classification for accurate blink detection
+- Real-time facial landmark tracking using MediaPipe
+- CNN + Eye Aspect Ratio (EAR) fusion for robust liveness verification
+- Active protection against photo and replay attacks
+- Real-time webcam-based biometric authentication
+- Modular architecture supporting training, testing, and deployment
+- Configurable challenge sequences with confidence-based verification
 
 Implements a challenge–response mechanism with randomized blink patterns to strengthen biometric authentication against presentation attacks.
 
