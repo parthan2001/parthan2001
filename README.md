@@ -110,12 +110,12 @@ AI-powered biometric authentication framework combining **frequency-domain liven
 
 | Aspect | Detail |
 |---|---|
-| Stack | Python, OpenCV, PyTorch, Scikit-learn, FFT, LBP, Cryptography |
-| Scale | Modular biometric authentication and anti-spoofing pipeline |
-| Performance | Two-stage liveness verification with confidence-based decision pipeline |
-| Security | Honey Encryption, AES-256-GCM, PBKDF2 for secure biometric vaults |
-| Impact | Enhances biometric authentication by detecting spoof attacks while protecting biometric templates |
-| Repository | 🔗 [View on GitHub](https://github.com/parthan2001/d-sense-biometric-anti-spoofing) |
+| **Stack** | Python, OpenCV, PyTorch, Scikit-learn, FFT, LBP, Cryptography |
+| **Scale** | Modular biometric authentication and anti-spoofing pipeline |
+| **Performance** | Two-stage liveness verification with confidence-based decision pipeline |
+| **Security** | Honey Encryption, AES-256-GCM, PBKDF2 for secure biometric vaults |
+| **Impact** | Enhances biometric authentication by detecting spoof attacks while protecting biometric templates |
+| **Repository** | 🔗 [View on GitHub](https://github.com/parthan2001/d-sense-biometric-anti-spoofing) |
 | **Demo** | 🌐 Coming Soon |
 
 ### Key Highlights
@@ -173,12 +173,12 @@ Biometric liveness verification system that authenticates users through randomiz
 
 | Aspect | Detail |
 |---|---|
-| Stack | Python, OpenCV, MediaPipe, Computer Vision |
-| Scale | Prototype liveness verification system |
-| Performance | Real-time eye blink detection and challenge validation |
-| Security | Protects against photo and replay attacks using dynamic liveness verification |
-| Impact | Enhances biometric authentication by verifying genuine user presence |
-| Repository | 🔗 [View on GitHub](https://github.com/parthan2001/eye-blink-liveness-verification) |
+| **Stack** | Python, OpenCV, MediaPipe, Computer Vision |
+| **Scale** | Prototype liveness verification system |
+| **Performance** | Real-time eye blink detection and challenge validation |
+| **Security** | Protects against photo and replay attacks using dynamic liveness verification |
+| **Impact** | Enhances biometric authentication by verifying genuine user presence |
+| **Repository** | 🔗 [View on GitHub](https://github.com/parthan2001/eye-blink-liveness-verification) |
 | **Demo** | 🌐 Coming Soon |
 
 ### Key Highlights
