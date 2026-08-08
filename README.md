@@ -139,12 +139,24 @@ Implemented K-Means clustering to compress digital images while preserving visua
 
 | Aspect | Detail |
 |---|---|
-| Stack | Python, NumPy, Scikit-learn, OpenCV |
-| Scale | Image-level compression experiments |
-| Performance | Reduced color palette with minimal perceptible quality loss |
-| Security | N/A |
-| Impact | Demonstrates unsupervised learning applied to media compression |
-| Repository | — |
+| **Stack** | Python, NumPy, Scikit-learn, OpenCV |
+| **Scale** | Image-level compression experiments |
+| **Performance** | Reduced color palette with minimal perceptible quality loss |
+| **Security** | N/A |
+| **Impact** | Demonstrates unsupervised learning applied to media compression |
+| **Repository** | 🔗 [View on GitHub](https://github.com/parthan2001/image-compression-kmeans) |
+| **Demo** | 🌐 Coming Soon |
+
+### Key Highlights
+
+- K-Means clustering for color quantization
+- Image compression with reduced color palette
+- Visual comparison between original and compressed images
+- Adjustable number of clusters for compression control
+- Machine learning–based image processing
+- Lightweight Python implementation
+
+Developed to demonstrate the application of unsupervised machine learning in image compression by reducing color redundancy while maintaining acceptable visual quality.
 
 </details>
 
