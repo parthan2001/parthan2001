@@ -156,12 +156,24 @@ Machine learning model to classify SMS messages as spam or legitimate using the 
 
 | Aspect | Detail |
 |---|---|
-| Stack | Python, Scikit-learn, Pandas |
-| Scale | SMS text classification dataset |
-| Performance | Naïve Bayes-based binary classification |
-| Security | Helps filter malicious/unwanted messages |
-| Impact | Practical text-classification use case for spam filtering |
-| Repository | — |
+| **Stack** | Python, Scikit-learn, Pandas |
+| **Scale** | SMS text classification dataset |
+| **Performance** | Naïve Bayes-based binary classification |
+| **Security** | Helps filter malicious/unwanted messages |
+| **Impact** | Practical text-classification use case for spam filtering |
+| Repository | 🔗 [View on GitHub](https://github.com/parthan2001/spam-message-classifier) |
+| **Demo** | 🌐 Coming Soon |
+
+### Key Highlights
+
+- Machine learning–based spam message classification
+- TF-IDF feature extraction for text representation
+- Multinomial Naive Bayes model for accurate spam detection
+- Automatic preprocessing of email and SMS messages
+- Interactive Tkinter-based desktop application
+- Model evaluation using accuracy and confusion matrix
+- Supports both training and real-time prediction
+- Easy-to-extend architecture for future NLP enhancements
 
 </details>
 
